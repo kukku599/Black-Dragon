@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 
 //documents variants
@@ -14,23 +14,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
+global.owner = ['9544445327'] //ur owner number
+global.ownername = "Kukkumass" //ur owner name
 global.ytname = "YT: HELA CLOUD" //ur yt chanel name
-global.socialm = "GitHub: nimaofficial" //ur github or insta name
+global.socialm = "GitHub: kukku599" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
+global.ownernomer = "9544445327" //ur number
+global.premium = ['9544445327'] //ur premium number
+global.botname = 'Kukkumass' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.packname = "᭕⸙⃝ ⃝★͢൱ഷ്ട്ടങ്ങള⫰൭ຮ✯രꪆജ̈̐ക⫰മꪆര൲
+
+❮𝄞 ⃟𝐑͕͢ɢ↯͛𝐊ᴜ᪳𝐊͕͢𝐊ᴜ᪳↯⃟ 𝄞❯
+
+📱▷9544445327" //ur sticker watermark packname
+global.author = "kukkumass" //ur sticker watermark author
+global.wm = "𝐊𝐮𝐤𝐤𝐮" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -48,7 +52,7 @@ global.mess = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
     wait: 'Please with...',
-    wal: 'ටිකක් හිටහන් බඩු මග එන ගමන්',
+    wal: '_𝆺𝅥⃝🥀തേꪆͥറ്റുͣ͢പേͫꪆയവൻ⃞ 💔',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
